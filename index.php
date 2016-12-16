@@ -4,7 +4,7 @@
 
   <meta charset="utf-8">
 
-  <title>Autocomplete textbox using jQuery, PHP and MySQL by CodexWorld</title>
+  <title>Autocomplete textbox using jQuery, PHP and MySQL</title>
 
   <!--  Link stylesheet -->
   <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
@@ -22,7 +22,7 @@
 
 </head>
 <body>
- 
+
 <div class="ui-widget">
   <label for="skills">Skills: </label>
   <input id="skills">
